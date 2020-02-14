@@ -1,0 +1,13 @@
+{
+"companyName": "UgGames_Yang",
+"productName": "RunGame",
+"dataUrl": "RunGameWeb.data.unityweb",
+"asmCodeUrl": "RunGameWeb.asm.code.unityweb",
+"asmMemoryUrl": "RunGameWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "RunGameWeb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
